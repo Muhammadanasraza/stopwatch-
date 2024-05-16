@@ -1,0 +1,104 @@
+
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main{
+    margin-left: 612px;
+    margin-top: 200px;
+}
+
+#h1{
+    text-align: center;
+    font-size: 80px;
+    display: inline;
+    gap: 0px;
+    background-color: rgba(255, 183, 0, 0.463);
+    border-radius: 10px;
+    padding: 20px 12px;
+
+}
+
+#displayMin{
+
+    background-color: rgb(0, 0, 0,0.1);
+    border-radius: 8px;
+    padding: 0px 5px;
+
+}
+#displaySec{
+
+    background-color: rgb(0, 0, 0,0.1);
+    border-radius: 8px;
+    padding: 0px 5px;
+
+}
+#displayMili{
+
+    background-color: rgb(0, 0, 0,0.1);
+    border-radius: 8px;
+    padding: 0px 5px;
+
+}
+
+#btns{
+  
+    position: relative;
+    z-index: bottom;
+    padding: 55px 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: normal;
+
+
+}
+
+#startBtn{
+    margin-top: 35px;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 10px 15px;
+    background-color: lightcyan;
+    border: none;
+    border-radius: 10px;
+
+}
+
+#startBtn:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#stopBtn{
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 10px 15px;
+    background-color: lightcyan;
+    border: none;
+    border-radius: 10px;
+
+}
+#stopBtn:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#resetBtn{
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 10px 15px;
+    background-color: lightcyan;
+    border: none;
+    border-radius: 10px;
+
+}
+#resetBtn:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+#Author{
+    font-size: 05px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
